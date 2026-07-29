@@ -44,7 +44,7 @@ playwright-cucumber-framework/
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/chronophobich/playwright-cucumber-framework.git
 cd playwright-cucumber-framework
 ```
 
