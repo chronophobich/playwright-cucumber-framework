@@ -1,0 +1,12 @@
+{
+  "homeLoan1": {
+    "loan": 2500000,
+    "interest": 10,
+    "tenure": 10
+  },
+  "homeLoan2": {
+    "loan": 5000000,
+    "interest": 7.5,
+    "tenure": 15
+  }
+}

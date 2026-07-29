@@ -1,0 +1,10 @@
+import { defineConfig } from "@playwright/test";
+
+export default defineConfig({
+    testDir: "./tests/api",
+
+    use: {
+        baseURL: "https://jsonplaceholder.typicode.com",
+        headless: false
+    }
+});
