@@ -178,6 +178,17 @@ A simple proof-of-concept fallback helper was also implemented to demonstrate ho
 
 ---
 
+# Continuous Integration
+
+A GitHub Actions workflow has been configured to automatically:
+
+- Install dependencies
+- Install Playwright browsers
+- Generate BDD tests
+- Execute UI tests
+- Execute API tests
+- Upload the Playwright report as a workflow artifact
+
 # Design Principles
 
 - Page Object Model
